@@ -4,6 +4,8 @@ from numpy import genfromtxt
 import math
 import csv
 
+#D-Tree practice
+
 class Node:
     def __init__(self, data):
         self.left = None
