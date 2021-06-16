@@ -9,7 +9,7 @@ class Node:
         self.left = None
         self.right = None
         self.data = data
-        self.attribute = None #This should really be renamed to label
+        self.attribute = None #This should really be renamed to self.label
 
 class Branch:
     def __init__(self, value):
