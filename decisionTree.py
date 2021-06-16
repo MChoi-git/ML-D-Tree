@@ -4,7 +4,7 @@ from numpy import genfromtxt
 import math
 import csv
 
-#D-Tree practice
+#D-Tree practice 
 
 class Node:
     def __init__(self, data):
